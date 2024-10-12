@@ -1,0 +1,29 @@
+.bodycolour div.row{
+    padding:33px;
+    text-align: justify;
+    background-color: aquamarine;
+}
+
+@media (min-width:576px){
+    .container{
+        display:flex;
+        justify-content:space-around;
+        flex-direction:column}
+}
+/*point 2a: For small devices I used a flex disposition of the containers, being flexible to occupy the screen size. I used a margin of space around the containers and the disposition is in a column*/ 
+@media (min-width:768px){
+    .container{
+        display:flex;
+        justify-content:space-around;
+        flex-direction:row}
+}
+/*point 2a: For small devices I used a flex disposition of the containers, being flexible to occupy the screen size. I used a margin of space around the containers and the disposition is in the same raw*/ 
+.item{
+    order:1;
+    }
+
+.colour div.container{
+        padding: 20px;
+        text-align: center;
+        background: #11111133;
+        }
