@@ -25,10 +25,7 @@ body {
 		 display: grid; 
 }
 	
-p {
-  font-family: verdana;
-  font-size: 20 px;
-}
+
 img {
 	width:500 px;
 	height:600 px;
