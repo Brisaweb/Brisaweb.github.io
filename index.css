@@ -1,13 +1,13 @@
-head {
-    padding: 30px;
+h1 {
+    padding: 30 px;
     text-align: center;
 	background-color: #caf7f7;
-	border-radius: 3px;
+	border-radius: 3 px;
 	font-weight: bold;
 	line-height: 1.6;
-    letter-spacing: 0.5px; 
+    letter-spacing: 0.5 px; 
 	 display: grid; 
-	 font-size: 22px;
+	 font-size: 22 px;
 title {
   color: blue;
   text-align: center;
