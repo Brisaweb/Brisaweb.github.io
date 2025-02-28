@@ -1,5 +1,5 @@
 
-head {
+header {
     padding: 30 px;
     text-align: center;
 	background-color: #caf7f7;
@@ -12,27 +12,29 @@ head {
 	
 }	
 
-body {
-	margin: 4 px;
-	font-family: 'Open Sans', sans-serif;
-	background-color: #ffffff; 
-  color: #333333; 
-	font-size: 16 px;
-	line-height: 1.6;
-  letter-spacing: 0.5 px; 
-  display: grid; 
-}
- 
-h1  {
+header h1 {
     color: #333;
 	font-weight: bold;
 	font-style: italic;
 	line-height: 1.6;
-  letter-spacing: 0.5 px; 
+    letter-spacing: 0.5 px; 
 	font-size: 44 px;
-	display: grid; 
-	  	}
-
+	 display: grid; 
+	  
+	
+	
+}
+body {
+	margin: 4 px;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #ffffff; 
+        color: #333333; 
+	font-size: 16 px;
+	line-height: 1.6;
+        letter-spacing: 0.5 px; 
+        display: grid; 
+}
+ 
 p {
     line-height: 1.6;
     letter-spacing: 0.5 px; 
