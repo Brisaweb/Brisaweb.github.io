@@ -17,14 +17,17 @@ title {
 body {
 	margin: 4 px;
 	font-family: 'Open Sans', sans-serif;
-		background-color: #ffffff; 
+	background-color: #ffffff; 
         color: #333333; 
 		font-size: 16 px;
 		line-height: 1.6;
         letter-spacing: 0.5 px; 
 		 display: grid; 
 }
-	
+p {
+  font-family: verdana;
+  font-size: 20 px;
+}	
 
 img {
 	width:500 px;
