@@ -29,8 +29,8 @@ p {
   font-family: verdana;
   font-size: 20 px;
 }
-image {
+img {
 	width:500 px;
 	height:600 px;
-	  text-align: center;
+	align: centered ;
 }
