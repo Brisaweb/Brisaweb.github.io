@@ -1,29 +1,22 @@
-.bodycolour div.row{
-    padding:33px;
-    text-align: justify;
-    background-color: aquamarine;
+body {
+	margin: 4px;
+	font-family: 'Open Sans', sans-serif;
+		background-color: #ffffff; 
+        color: #333333; 
+		font-size: 16px;
+		line-height: 1.6;
+        letter-spacing: 0.5px; 
+		 display: grid; 
 }
-
-@media (min-width:576px){
-    .container{
-        display:flex;
-        justify-content:space-around;
-        flex-direction:column}
-}
-/*point 2a: For small devices I used a flex disposition of the containers, being flexible to occupy the screen size. I used a margin of space around the containers and the disposition is in a column*/ 
-@media (min-width:768px){
-    .container{
-        display:flex;
-        justify-content:space-around;
-        flex-direction:row}
-}
-/*point 2a: For small devices I used a flex disposition of the containers, being flexible to occupy the screen size. I used a margin of space around the containers and the disposition is in the same raw*/ 
-.item{
-    order:1;
-    }
-
-.colour div.container{
-        padding: 20px;
-        text-align: center;
-        background: #11111133;
-        }
+head {
+    padding: 30px;
+    text-align: center;
+	background-color: #caf7f7;
+	border-radius: 3px;
+	font-weight: bold;
+	line-height: 1.6;
+    letter-spacing: 0.5px; 
+	 display: grid; 
+	 font-size: 22px;
+	
+}	
