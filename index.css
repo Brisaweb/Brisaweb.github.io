@@ -1,36 +1,56 @@
-h1 {
-    padding: 30 px;
-    text-align: center;
-	background-color: #caf7f7;
-	border-radius: 3 px;
-	font-weight: bold;
-	line-height: 1.6;
-    letter-spacing: 0.5 px; 
-	 display: grid; 
-	 font-size: 22 px;
-title {
-  color: blue;
-  text-align: center;
-}	
+* {
+  margin: 4;
+  padding: 2;
+  box-sizing: border-box;
 }
+
 
 body {
-	margin: 4 px;
-	font-family: 'Open Sans', sans-serif;
-	background-color: #ffffff; 
-        color: #333333; 
-		font-size: 16 px;
-		line-height: 1.6;
-        letter-spacing: 0.5 px; 
-		 display: grid; 
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 20 px;
 }
-p {
-  font-family: verdana;
-  font-size: 20 px;
-}	
 
+
+h1 {
+  color: #2c3e50;
+  font-size: 23 px;
+  text-align: center;
+  margin-bottom: 20 px;
+}
+
+/* Estilo para los párrafos */
+p {
+  font-size: 1.2 em;
+  margin-bottom: 20px;
+  text-align: justify;
+  color: #555;
+}
+
+/* Estilo para los enlaces */
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Estilo para la imagen */
 img {
-	width:500 px;
-	height:600 px;
-	align: centered ;
+  display: block;
+  margin: 20px auto;
+  width: 80%; /* Ajusta el tamaño de la imagen */
+  max-width: 600px; /* Limita el tamaño máximo */
+}
+
+/* Estilo para el subtítulo */
+h2 {
+  color: #e74c3c;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 30px;
 }
