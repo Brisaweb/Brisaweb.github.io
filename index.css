@@ -7,19 +7,19 @@ header {
 	font-weight: bold;
 	line-height: 1.6;
     letter-spacing: 0.5 px; 
-	 display: grid; 
-	 font-size: 22 px;
+	display: grid; 
+	font-size: 22 px;
 	
 }	
 
 header h1 {
-       color: #040720;
+    color: #040720;
 	font-weight: bold;
 	font-style: italic;
 	line-height: 1.6;
-      letter-spacing: 0.5 px; 
+    letter-spacing: 0.5 px; 
 	font-size: 44 px;
-	 display: grid; 
+	display: grid; 
 	  	
 	
 }
@@ -27,19 +27,19 @@ body {
 	margin: 4 px;
 	font-family: 'Open Sans', sans-serif;
 	background-color: #ffffff; 
-        color: #333333; 
+    color: #333333; 
 	font-size: 16 px;
 	line-height: 1.6;
-        letter-spacing: 0.5 px; 
-        display: grid; 
+    letter-spacing: 0.5 px; 
+    display: grid; 
 }
  
 p {
     line-height: 1.6;
     letter-spacing: 0.5 px; 
-   text-align: center;
+    text-align: center;
 	text-align: justify;
-	 display: grid; 
+	display: grid; 
 }
 
 img {
@@ -48,12 +48,12 @@ img {
     height: auto;
     margin-top: 20 px;
     border-radius: 5 px;
- display: grid; 
+    display: grid; 
 }
 
 a {
   color: #14A3C7;
- font-weight: bold;
+  font-weight: bold;
  }
 
 a:hover {
