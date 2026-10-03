@@ -43,8 +43,7 @@ p {
 }
 
 img {
-    width: 100 %;
-    max-width: 100 px;
+    width: 80 px;
     height: auto;
     margin-top: 20 px;
     border-radius: 5 px;
