@@ -4,7 +4,7 @@
 
 Ce site prénsente une image de l'*Altell*, mon espace de travail.
 
-Je présente mon projet professionel est **Ritme de Vida** 
+Je présente mon projet professionel **Ritme de Vida** 
 
 Je vous invite à visiter le site [www.ritmedevida.cat] pour plus de détails. 
 
