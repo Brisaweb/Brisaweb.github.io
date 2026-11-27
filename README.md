@@ -6,4 +6,6 @@ Ce site prénsente une image de l'*Altell*, mon espace de travail.
 
 Mon projet professionel est **Ritme de Vida** 
 
+Je vous invite à visiter le site [www.ritmedevida.cat] pour plus de détails. 
+
 
