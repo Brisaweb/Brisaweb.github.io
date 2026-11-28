@@ -2,7 +2,7 @@
 
 ## Cet exercice fait partie du chapitre "Valoriser les résultats" du cours de Mèthodes et Pratiques Numériques, MATECH 2026.
 
-Ce site prénsente une image de l'*Altell*, mon espace de travail.
+Ce site prénsente une image de l'*Altell*, ![alt Altell](altell.jpg) mon espace de travail.
 
 Je présente mon projet professionel **Ritme de Vida** 
 
